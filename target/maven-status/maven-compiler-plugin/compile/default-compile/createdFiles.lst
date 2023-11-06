@@ -1,0 +1,4 @@
+com\example\jspdemo\repo\IKonsumenRepository.class
+com\example\jspdemo\controller\KonsumenController.class
+com\example\jspdemo\service\KonsumenService.class
+com\example\jspdemo\model\Konsumen.class
