@@ -19,7 +19,7 @@ You can try several features such as:
 * Display list konsumen 
 * Add Konsumen
 * Search Konsumen by name
-* Update Konsumen
+* Edit Konsumen
 * Delete konsumen
 
 the data will also be displayed in table form using datatable and bootstrap.
