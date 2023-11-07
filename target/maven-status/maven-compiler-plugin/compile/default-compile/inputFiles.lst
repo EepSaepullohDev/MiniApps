@@ -1,5 +1,5 @@
-D:\Learn\CRUDWithPostgresAndJSPExample\src\main\java\com\example\jspdemo\repo\IKonsumenRepository.java
-D:\Learn\CRUDWithPostgresAndJSPExample\src\main\java\com\example\jspdemo\controller\KonsumenController.java
-D:\Learn\CRUDWithPostgresAndJSPExample\src\main\java\com\example\jspdemo\MainApplication.java
-D:\Learn\CRUDWithPostgresAndJSPExample\src\main\java\com\example\jspdemo\service\KonsumenService.java
-D:\Learn\CRUDWithPostgresAndJSPExample\src\main\java\com\example\jspdemo\model\Konsumen.java
+C:\Users\ersh\Documents\MiniApps\src\main\java\com\example\jspdemo\model\Konsumen.java
+C:\Users\ersh\Documents\MiniApps\src\main\java\com\example\jspdemo\repo\IKonsumenRepository.java
+C:\Users\ersh\Documents\MiniApps\src\main\java\com\example\jspdemo\service\KonsumenService.java
+C:\Users\ersh\Documents\MiniApps\src\main\java\com\example\jspdemo\controller\KonsumenController.java
+C:\Users\ersh\Documents\MiniApps\src\main\java\com\example\jspdemo\MainApplication.java

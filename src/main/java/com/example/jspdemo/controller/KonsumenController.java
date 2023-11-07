@@ -16,7 +16,7 @@ public class KonsumenController {
     @Autowired
     KonsumenService konsumenService;
 
-    @GetMapping("/viewKonsumenList")
+    @GetMapping({"/","/viewKonsumenList"})
     public String viewKonsumenList(@RequestParam(required = false, defaultValue = "") String keyword,
                                 @ModelAttribute("message") String message, Model model) {
         model.addAttribute("konsumenList", konsumenService.getAllKonsumen(keyword));
